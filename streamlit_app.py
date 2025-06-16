@@ -18,7 +18,6 @@ import joblib
 from statsmodels.tsa.arima.model import ARIMA
 from statsmodels.tsa.statespace.sarimax import SARIMAX
 import plotly.io as pio
-from mpl_toolkits.basemap import Basemap
 from matplotlib.colors import Normalize
 
 ######################## Import des dataframes NASA et OWID, préprocessing et SARIMAX dans un cache #############################
